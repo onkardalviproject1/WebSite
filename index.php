@@ -1,3 +1,0 @@
-<?php
-	// redirect to app folder ...
-	header('Location: app/index.php');
